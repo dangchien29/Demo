@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>MinhChienShop</title>
-    <link rel="icon" href="<?= $CONTENT_URL ?>/images/items/logo.png" type="image/gif" sizes="16x16">
+    <link rel="icon" href="<?= $CONTENT_URL ?>./images/items/logo.png" type="image/gif" sizes="16x16">
     <!-- Bootstrap -->
     <link rel="stylesheet" href="<?= $CONTENT_URL ?>/css/bootstrap.min.css" type="text/css">
     <!-- Font awesome -->
